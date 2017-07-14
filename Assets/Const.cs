@@ -1,4 +1,6 @@
-﻿public static class Const {
+﻿// ぐへへ
+
+public static class Const {
 
 	public enum Commnad {
 		Attack,
